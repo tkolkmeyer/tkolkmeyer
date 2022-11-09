@@ -1,0 +1,31 @@
+---
+---
+
+@import 'jekyll-theme-dinky';
+
+header {
+    padding: 40px 60px 40px 40px;
+}
+
+pre {
+    padding: 0px;
+    background: none;
+    border-radius: 0px;
+    border: 0px;
+    overflow: unset;
+    overflow-y: unset;
+    margin-bottom: 0px;
+    color: whitesmoke;
+}
+
+.main__title {
+    font-size: xx-large;
+}
+
+.main__bio {
+    font-size: medium;
+}
+
+.navigation__main {
+    font-size: large;
+}
