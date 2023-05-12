@@ -15,6 +15,5 @@ Designed and built front-end styling to contribute to a PowerPoint display tool 
 ### Poetry Formatter
 Developed a heroku-hosted Java SpringBoot app that makes traditional poetry formatting more accessible / April 2021
 
-[DEEP DRAFT](http://guarded-bastion-94875.herokuapp.com/)
 
 
